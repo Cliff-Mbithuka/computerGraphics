@@ -1,10 +1,10 @@
-# Smart Infrastructure Simulation for a 14-Unit Residential Building
+# Smart Infrastructure Simulation for a 14-Unit Commercial Building
 
 ## Introduction
 
-This project presents a technical simulation of infrastructure systems for a **14-unit residential building**. The goal of the project is to demonstrate how essential building services can be planned, layered, and documented using CAD design principles.
+This project presents a technical simulation of infrastructure systems for a **14-unit Commercial building**. The goal of the project is to demonstrate how essential building services can be planned, layered, and documented using CAD design principles.
 
-The design models three critical infrastructure pipelines that support modern residential buildings:
+The design models three critical infrastructure pipelines that support modern Commercial buildings:
 
 - Electrical power distribution
 - Water supply and plumbing
@@ -24,11 +24,12 @@ Each system is designed and represented on **separate layers** to ensure clarity
 7. BSCCS/2023/60264- Ahmed Abdirizak
 8. BSCCS/2023/68501-Sarah Githinji  
 9. BSCCS/2023/66238-Ishak Twahir
-10.Dak Kunot BSCCS/2023/51238
+10. Dak Kunot BSCCS/2023/51238
+
 
 ## Project Description
 
-The project simulates the infrastructure planning of a **14-house residential building layout**. The model focuses on how essential utilities are routed throughout the building to provide reliable services to all housing units.
+The project simulates the infrastructure planning of a **14-house Commercial building layout**. The model focuses on how essential utilities are routed throughout the building to provide reliable services to all housing units.
 
 The infrastructure has been divided into three independent pipeline systems:
 
@@ -38,7 +39,7 @@ The infrastructure has been divided into three independent pipeline systems:
 
 These systems are designed in AutoCAD using structured layers and schematic representations that mimic real-world engineering drawings used during building construction and facility planning.
 
-The goal is not architectural perfection but rather the **simulation of utility infrastructure deployment within a multi-unit residential structure**.
+The goal is not architectural perfection but rather the **simulation of utility infrastructure deployment within a multi-unit Commercial structure**.
 
 ---
 
@@ -48,10 +49,10 @@ The objective of this submission is to demonstrate the ability to:
 
 - Design infrastructure layouts using CAD tools
 - Separate building utilities using layered technical drawings
-- Simulate infrastructure distribution within a multi-unit residential structure
+- Simulate infrastructure distribution within a multi-unit Commercial structure
 - Present organized technical documentation for building systems
 
-The project showcases the integration of **utility planning and digital drafting techniques** within a simulated residential building environment.
+The project showcases the integration of **utility planning and digital drafting techniques** within a simulated Commercial building environment.
 
 ---
 
@@ -115,7 +116,7 @@ All pipelines were designed based on this layout to ensure proper alignment with
 
 ## 2. Water Supply and Plumbing System
 
-The water supply pipeline simulates how water is distributed from the main supply source to all residential units.
+The water supply pipeline simulates how water is distributed from the main supply source to all Commercial units.
 
 The design includes:
 
@@ -124,7 +125,7 @@ The design includes:
 - Structured plumbing routes for efficient water delivery
 - Organized layering for plumbing infrastructure
 
-The pipeline structure reflects typical residential plumbing distribution systems used in multi-unit buildings.
+The pipeline structure reflects typical Commercial plumbing distribution systems used in multi-unit buildings.
 
 ### Water Supply Plan
 
@@ -171,7 +172,7 @@ This pipeline demonstrates how network infrastructure can be planned alongside o
 
 # Conclusion
 
-This project demonstrates a simplified simulation of infrastructure planning for a **14-unit residential building** using CAD drafting techniques.
+This project demonstrates a simplified simulation of infrastructure planning for a **14-unit Commercial building** using CAD drafting techniques.
 
 By separating the building services into independent pipeline systems (electricity, water, and network), the design promotes better organization, easier maintenance, and clearer documentation.
 
