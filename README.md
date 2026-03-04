@@ -73,18 +73,6 @@ Each infrastructure system is represented in its own design pipeline as describe
 
 # Infrastructure Systems
 
-## 1. Electrical Power Distribution
-
-The electrical pipeline simulates how power is distributed throughout the building from a **Main Distribution Board (MDB)**.
-
-The design includes:
-
-- A centralized **Main Distribution Board**
-- Electrical routing pathways supplying each housing unit
-- Power distribution lines designed for clarity and maintenance access
-- Layered CAD representation to isolate electrical infrastructure from other systems
-
-This system ensures that electricity is distributed efficiently across the building while maintaining organized wiring pathways.
 # Ground Floor Layout
 
 The ground floor plan represents the structural layout used as the base for all infrastructure pipelines.
@@ -103,6 +91,20 @@ All pipelines were designed based on this layout to ensure proper alignment with
 ### Ground Floor Plan
 
 ![Ground Floor Layout](images/groundfloor.png)
+
+## 1. Electrical Power Distribution
+
+The electrical pipeline simulates how power is distributed throughout the building from a **Main Distribution Board (MDB)**.
+
+The design includes:
+
+- A centralized **Main Distribution Board**
+- Electrical routing pathways supplying each housing unit
+- Power distribution lines designed for clarity and maintenance access
+- Layered CAD representation to isolate electrical infrastructure from other systems
+
+This system ensures that electricity is distributed efficiently across the building while maintaining organized wiring pathways.
+
 
 ---
 ### Electrical Plan
