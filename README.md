@@ -25,6 +25,8 @@ Each system is designed and represented on **separate layers** to ensure clarity
 8. BSCCS/2023/68501-Sarah Githinji  
 9. BSCCS/2023/66238-Ishak Twahir
 10. Dak Kunot BSCCS/2023/51238
+11. Valery Mwiti - BSCCS/2023/62743
+12. Mandeq Adan - Bsccs/2024/34000
 
 
 ## Project Description
