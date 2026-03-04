@@ -13,6 +13,18 @@ The design models three critical infrastructure pipelines that support modern re
 Each system is designed and represented on **separate layers** to ensure clarity, maintainability, and professional drafting standards. The project demonstrates how digital building plans can be used to visualize infrastructure deployment before construction.
 
 ---
+### Group Members
+
+1. BSCCS/2023/67094-Clifford Mbithuka
+2. BSCCS/2023/62916-Yvonne Maigo 
+3.  BSCCS/2023/60311-Linah Wanjiku 
+4. BSCCS/2023/61886-Michael Maina 
+5. BSCCS/2023/59987-Gloria Jebichii
+6. BSCCS/2023/64831-Owuor Akinyi 
+7. BSCCS/2023/60264- Ahmed Abdirizak
+8. BSCCS/2023/68501-Sarah Githinji  
+9. BSCCS/2023/66238-Ishak Twahir
+10.Dak Kunot BSCCS/2023/51238
 
 ## Project Description
 
@@ -72,7 +84,26 @@ The design includes:
 - Layered CAD representation to isolate electrical infrastructure from other systems
 
 This system ensures that electricity is distributed efficiently across the building while maintaining organized wiring pathways.
+# Ground Floor Layout
 
+The ground floor plan represents the structural layout used as the base for all infrastructure pipelines.
+
+It defines:
+
+- Unit arrangement
+- Core circulation areas
+- Infrastructure routing paths
+
+All pipelines were designed based on this layout to ensure proper alignment with the building structure.
+
+### Ground Floor Plan
+
+*Image Placeholder*
+### Ground Floor Plan
+
+![Ground Floor Layout](images/groundfloor.png)
+
+---
 ### Electrical Plan
 
 *Image Placeholder*
@@ -126,26 +157,6 @@ This pipeline demonstrates how network infrastructure can be planned alongside o
 
 ---
 
-# Ground Floor Layout
-
-The ground floor plan represents the structural layout used as the base for all infrastructure pipelines.
-
-It defines:
-
-- Unit arrangement
-- Core circulation areas
-- Infrastructure routing paths
-
-All pipelines were designed based on this layout to ensure proper alignment with the building structure.
-
-### Ground Floor Plan
-
-*Image Placeholder*
-### Ground Floor Plan
-
-![Ground Floor Layout](images/groundfloor.png)
-
----
 
 # Technologies Used
 
