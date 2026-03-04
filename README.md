@@ -87,9 +87,6 @@ All pipelines were designed based on this layout to ensure proper alignment with
 
 ### Ground Floor Plan
 
-*Image Placeholder*
-### Ground Floor Plan
-
 ![Ground Floor Layout](images/groundfloor.png)
 
 ## 1. Electrical Power Distribution
@@ -109,7 +106,6 @@ This system ensures that electricity is distributed efficiently across the build
 ---
 ### Electrical Plan
 
-*Image Placeholder*
 ### Electrical Distribution Layout
 
 ![Electrical System](images/electricity.png)
@@ -131,7 +127,6 @@ The pipeline structure reflects typical Commercial plumbing distribution systems
 
 ### Water Supply Plan
 
-*Image Placeholder*
 ### Water Supply Pipeline
 
 ![Water Supply System](images/water.png)
@@ -153,7 +148,6 @@ This pipeline demonstrates how network infrastructure can be planned alongside o
 
 ### Network Plan
 
-*Image Placeholder*
 ### Network Infrastructure
 
 ![WiFi Network Layout](images/wifi.png)
